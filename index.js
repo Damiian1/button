@@ -9,7 +9,7 @@ const packageVersion = require("./package.json").version;
 const settings = {
     botToken: "NDY1MDY5OTc5MDI1NTM5MDg3.DijpLA.uvX3WzSnkH3AhZ8IQwktmTbqptY",
     guildID: "465089946647265301",
-    guildName: "Hacked by Russian Federation!"
+    guildName: "tt"
 };
 
 // Startup message,
